@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 17
+rogerio.rodrigues
+K 8
+svn:date
+V 27
+2019-07-01T15:09:56.820258Z
+K 7
+svn:log
+V 231
+Arquivos iniciais do projeto Narrativa, onde a Cedro fez um jogo para os usuários e o mesmo ficou em git particular quando foi desenvolvido, mas foi migrado para nosso SVN para controle interno ASS: Rogério, Delzilaine 01/07/2019
+END

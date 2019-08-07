@@ -1,0 +1,7 @@
+#!/bin/sh
+
+REPOS="$1"
+REV="$2"
+
+
+/usr/bin/svn-mailer --commit --config /etc/subversion/mailer --repository "${REPOS}" --revision "${REV}" &
